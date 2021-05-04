@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "datashareportalaf40df5a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
